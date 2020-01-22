@@ -39,4 +39,6 @@ C26 | Capacitación de mantencion de productos| 1 | 26 |
 C27 | Capacitación Contable | 1 | 27 |
 T28 | Definir Método de Costeo | 1 | 28 |
 T29 | Definir Asiento Contable de Venta | 1 | 29 |
-T30 | Definir Asiento Contable de Compra | 1 | 20 |
+T30 | Definir Asiento Contable de Compra | 1 | 30 |
+T31 | Capacitación de Asientos | 1 | 31 |
+T32 | Capacitación de Ticket de Soporte | 1 | 32 |
