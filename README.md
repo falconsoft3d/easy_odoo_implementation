@@ -19,7 +19,7 @@ No | Descripción | Puntos | Acumulado
 --- | --- | --- | ---
 T8 | Definir Cronograma | 1 | 8 |
 T9 | Instalar el VPS | 1 | 9 |
-T10 | Crear la BD | 1 | 10 |
+T10 | Crear la BD e Instalar localización Contable | 1 | 10 |
 T11 | Cargar el Plan de Cuentas | 1 | 11 |
 T12 | Cargar el Plan de Cuentas Análitico | 1 | 12 |
 T13 | Cargar el Maestro de Productos | 1 | 13 |
@@ -42,3 +42,4 @@ T29 | Definir Asiento Contable de Venta | 1 | 29 |
 T30 | Definir Asiento Contable de Compra | 1 | 30 |
 T31 | Capacitación de Asientos | 1 | 31 |
 T32 | Capacitación de Ticket de Soporte | 1 | 32 |
+T33 | Instalación de Módulos de 3ros (Set Básico) | 1 | 32 |
