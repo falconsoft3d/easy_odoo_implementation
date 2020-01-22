@@ -42,4 +42,4 @@ T29 | Definir Asiento Contable de Venta | 1 | 29 |
 T30 | Definir Asiento Contable de Compra | 1 | 30 |
 T31 | Capacitación de Asientos | 1 | 31 |
 T32 | Capacitación de Ticket de Soporte | 1 | 32 |
-T33 | Instalación de Módulos de 3ros (Set Básico) | 1 | 32 |
+T33 | Instalación de Módulos de 3ros (Set Básico) | 1 | 33 |
