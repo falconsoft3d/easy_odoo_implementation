@@ -1,5 +1,5 @@
 
-# odoo-chile
+# Easy Odoo Implementation
 
 Pasos para la implementación de Odoo ERP
 
