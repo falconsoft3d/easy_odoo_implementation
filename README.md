@@ -33,4 +33,7 @@ T21| Cargar Ubicaciones | 1 | 16 |
 T22| Capacitación de Ciclo de Ventas| 1 | 17 |
 C23| Capacitación de Ciclo de Compras| 1 | 18 |
 C24| Capacitación de mantencion de productos| 1 | 19 |
-C25| Capacitación de mantencion contable | 1 | 20 |
+C25| Capacitación Contable | 1 | 20 |
+T26| Definir Método de Costeo | 1 | 21 |
+T27| Definir Asiento Contable de Venta | 1 | 22 |
+T28| Definir Asiento Contable de Compra | 1 | 23 |
