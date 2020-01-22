@@ -17,3 +17,9 @@ No | Descripción | Puntos | Acumulado
 8 | Cargar el Maestro de Variantes de Productos | 1 | 8 |
 9 | Cargar los Clientes | 1 | 9 |
 10| Cargar los Proveedores | 1 | 10 |
+11| Cargar los Usuarios | 1 | 11 |
+12| Cargar los Empleados | 1 | 12 |
+13| Cargar los Impuestos | 1 | 13 |
+14| Definir el uso de multimoneda y configurarlo | 1 | 14 |
+15| Cargar Almacenes | 1 | 15 |
+16| Cargar Ubicaciones | 1 | 16 |
